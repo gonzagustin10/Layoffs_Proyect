@@ -34,3 +34,12 @@ This project includes:
 Technologies
   SQL: Used for data cleaning and analysis.
   CSV: Raw data format used for the analysis.   
+
+License
+This project is licensed under the MIT License. Feel free to use the code and dataset for your own projects.
+
+Author
+Sosa Gonzalo
+[Portfolio](https://github.com/gonzagustin10/)
+LinkedIn: https://www.linkedin.com/in/gonzalo-sosa-agustin/
+Email: sosagonzaloagustin74@gmail.com
