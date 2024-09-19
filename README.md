@@ -41,5 +41,5 @@ This project is licensed under the MIT License. Feel free to use the code and da
 Author
 Sosa Gonzalo
 [Portfolio](https://github.com/gonzagustin10/)
-LinkedIn: https://www.linkedin.com/in/gonzalo-sosa-agustin/
-Email: sosagonzaloagustin74@gmail.com
+[LinkedIn](https://www.linkedin.com/in/gonzalo-sosa-agustin/)
+[Email](sosagonzaloagustin74@gmail.com)
