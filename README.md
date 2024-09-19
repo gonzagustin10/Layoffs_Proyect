@@ -25,7 +25,7 @@ This project includes:
 ## How to Use
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/data-analysis-portfolio.git
+   git clone https://github.com/gonzagustin10/Layoffs_Project.git
    
 2. Import the dataset into your database.
    
